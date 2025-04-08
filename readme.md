@@ -14,6 +14,13 @@ O elixir trabalha com modulos, por exemplo o modulo `String` é nativo do elixir
 
 As funções dos módulos podem possuir aridades diferentes, ariadade são a quantidade de paramentos que uma mesma função pode receber.
 
+### Lista
+
+
+### Tuplas
+
+Na tupla é possível acessar um itém a partir do índice.
+
 ## Dicas
 
 Para acessar a documentação pelo `iex`.
@@ -24,6 +31,7 @@ Exemplo:
 h String
 ```
 
-Onde `h` é help e `String` seria o módulo.
+Onde `h` é help e `String` seria o módulo, e pressione `tab` para listar os métodos deste módulo.
 
 Valores nulos são representado pela palavra reservada `nil`
+
